@@ -1,6 +1,6 @@
 package org.codewithcuong;
 
-public class _26_RemoveDuplicatesFromSortedArray {
+public class E26_RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 
